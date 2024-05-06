@@ -30,4 +30,5 @@ Files Included:
 Overview:
 
 The project focuses on analyzing sales performance data for two main teams: Duane Frame's team and Ronnie Daly's team. It includes insights such as sales vs. target attainment, team composition, product sales analysis, geographical analysis, and annual performance trends.
-![imagedoc-lightnoise](https://github.com/KSultanaGit/SalesAndTargetsAnalysis/assets/157523571/dd02b828-1902-499b-bc42-1364758e6ac3)
+
+
