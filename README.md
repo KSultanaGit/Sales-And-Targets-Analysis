@@ -46,31 +46,31 @@ The project focuses on analyzing sales performance data for two main teams: Duan
 
 SUMMARY 
 
-<img src="https://github.com/KSultanaGit/SalesAndTargetsAnalysis/blob/main/screenshots/1.png" alt="Screenshot 1" width="500" height="300" align="center">
+<img src="https://github.com/KSultanaGit/SalesAndTargetsAnalysis/blob/main/screenshots/1.png" alt="Screenshot 1" width="500" height="200" align="center">
 
 SALES INSIGHTS
 
-<img src="https://github.com/KSultanaGit/SalesAndTargetsAnalysis/blob/8fa1ecf87b0b3cce45782bcdf0594b0b4bc19ecb/screenshots/2.png" alt="Screenshot 2" width="500" height="300" align="center">
+<img src="https://github.com/KSultanaGit/SalesAndTargetsAnalysis/blob/8fa1ecf87b0b3cce45782bcdf0594b0b4bc19ecb/screenshots/2.png" alt="Screenshot 2" width="500" height="200" align="center">
 
 TARGETS INSIGHTS
 
-<img src="https://github.com/KSultanaGit/SalesAndTargetsAnalysis/blob/8fa1ecf87b0b3cce45782bcdf0594b0b4bc19ecb/screenshots/3.png" alt="Screenshot 3" width="500" height="300" align="center">
+<img src="https://github.com/KSultanaGit/SalesAndTargetsAnalysis/blob/8fa1ecf87b0b3cce45782bcdf0594b0b4bc19ecb/screenshots/3.png" alt="Screenshot 3" width="500" height="200" align="center">
 
 PRODUCT INSIGHTS
 
-<img src="https://github.com/KSultanaGit/SalesAndTargetsAnalysis/blob/8fa1ecf87b0b3cce45782bcdf0594b0b4bc19ecb/screenshots/4.png" alt="Screenshot 4" width="500" height="300" align="center">
+<img src="https://github.com/KSultanaGit/SalesAndTargetsAnalysis/blob/8fa1ecf87b0b3cce45782bcdf0594b0b4bc19ecb/screenshots/4.png" alt="Screenshot 4" width="500" height="200" align="center">
 
 CUSTOMER INSIGHTS
 
-<img src="https://github.com/KSultanaGit/SalesAndTargetsAnalysis/blob/8fa1ecf87b0b3cce45782bcdf0594b0b4bc19ecb/screenshots/5.png" alt="Screenshot 5" width="500" height="300" align="center">
+<img src="https://github.com/KSultanaGit/SalesAndTargetsAnalysis/blob/8fa1ecf87b0b3cce45782bcdf0594b0b4bc19ecb/screenshots/5.png" alt="Screenshot 5" width="500" height="200" align="center">
 
 MANAGER INSIGHTS
 
-<img src="https://github.com/KSultanaGit/SalesAndTargetsAnalysis/blob/8fa1ecf87b0b3cce45782bcdf0594b0b4bc19ecb/screenshots/6.png" alt="Screenshot 6" width="500" height="300" align="center">
+<img src="https://github.com/KSultanaGit/SalesAndTargetsAnalysis/blob/8fa1ecf87b0b3cce45782bcdf0594b0b4bc19ecb/screenshots/6.png" alt="Screenshot 6" width="500" height="200" align="center">
 
 INFERENCES
 
-<img src="https://github.com/KSultanaGit/SalesAndTargetsAnalysis/blob/8fa1ecf87b0b3cce45782bcdf0594b0b4bc19ecb/screenshots/7.png" alt="Screenshot 7" width="500" height="300" align="center">
+<img src="https://github.com/KSultanaGit/SalesAndTargetsAnalysis/blob/8fa1ecf87b0b3cce45782bcdf0594b0b4bc19ecb/screenshots/7.png" alt="Screenshot 7" width="500" height="200" align="center">
 
 Contributors
 
