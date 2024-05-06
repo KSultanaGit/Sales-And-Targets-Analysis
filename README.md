@@ -26,6 +26,7 @@ Files Included:
     Notebook:  containing Python scripts for data processing, analysis, and visualization.
     Dashboard: containing  visualizations, and dashboard outputs generated from the analysis.
     README.md: This file, providing an overview of the project.
+    https://github.com/KSultanaGit/SalesAndTargetsAnalysis/blob/main/README.md
     
 Overview:
 
