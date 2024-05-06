@@ -2,10 +2,6 @@ Sales and Targets Analysis Project:
 
 This repository contains the code and data for the Sales and Targets Analysis project. The project aims to analyze sales performance, target attainment, and related insights for different teams within the organization using Python and SQL. The analysis includes visualizing relations and creating a dashboard for better insights.
 
-Overview:
-
-The project focuses on analyzing sales performance data for two main teams: Duane Frame's team and Ronnie Daly's team. It includes insights such as sales vs. target attainment, team composition, product sales analysis, geographical analysis, and annual performance trends.
-
 Tech Stack:
 
     Python: Used for data processing, analysis, and visualization.
@@ -30,3 +26,8 @@ Files Included:
     Notebook:  containing Python scripts for data processing, analysis, and visualization.
     Dashboard: containing  visualizations, and dashboard outputs generated from the analysis.
     README.md: This file, providing an overview of the project.
+    
+Overview:
+
+The project focuses on analyzing sales performance data for two main teams: Duane Frame's team and Ronnie Daly's team. It includes insights such as sales vs. target attainment, team composition, product sales analysis, geographical analysis, and annual performance trends.
+![imagedoc-lightnoise](https://github.com/KSultanaGit/SalesAndTargetsAnalysis/assets/157523571/dd02b828-1902-499b-bc42-1364758e6ac3)
