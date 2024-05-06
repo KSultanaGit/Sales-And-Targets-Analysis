@@ -31,7 +31,7 @@ Files Included:
 [4]:https://github.com/KSultanaGit/SalesAndTargetsAnalysis/blob/main/README.md
   
 
-dataset/: [Directory containing datasets used for analysis.][1]
+Datasets: [Directory containing datasets used for analysis.][1]
 
 Notebook:  [containing Python scripts for data processing, analysis, and visualization.][2]
 
