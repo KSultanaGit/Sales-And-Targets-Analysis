@@ -23,8 +23,11 @@ Data Analysis and Visualization:
 Files Included:
 
     dataset/: Directory containing datasets used for analysis.
+    https://github.com/KSultanaGit/SalesAndTargetsAnalysis/tree/main/Datasets
     Notebook:  containing Python scripts for data processing, analysis, and visualization.
+    https://github.com/KSultanaGit/SalesAndTargetsAnalysis/blob/main/Sales_Analysis_EDA.ipynb
     Dashboard: containing  visualizations, and dashboard outputs generated from the analysis.
+    https://github.com/KSultanaGit/SalesAndTargetsAnalysis/blob/main/Sales_Analysis_Dashboard.pbix
     README.md: This file, providing an overview of the project.
     https://github.com/KSultanaGit/SalesAndTargetsAnalysis/blob/main/README.md
     
