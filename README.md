@@ -22,15 +22,21 @@ Data Analysis and Visualization:
 
 Files Included:
 
-    dataset/: [Directory containing datasets used for analysis.][1]
-    [1]:https://github.com/KSultanaGit/SalesAndTargetsAnalysis/tree/main/Datasets
-    Notebook:  [containing Python scripts for data processing, analysis, and visualization.][2]
-    [2]:https://github.com/KSultanaGit/SalesAndTargetsAnalysis/blob/main/Sales_Analysis_EDA.ipynb
-    Dashboard: [containing  visualizations, and dashboard outputs generated from the analysis.][3]
-    [3]:https://github.com/KSultanaGit/SalesAndTargetsAnalysis/blob/main/Sales_Analysis_Dashboard.pbix
-    README.md: [This file, providing an overview of the project.][4]
-    [4]:https://github.com/KSultanaGit/SalesAndTargetsAnalysis/blob/main/README.md
+[1]:https://github.com/KSultanaGit/SalesAndTargetsAnalysis/tree/main/Datasets
     
+[2]:https://github.com/KSultanaGit/SalesAndTargetsAnalysis/blob/main/Sales_Analysis_EDA.ipynb
+    
+[3]:https://github.com/KSultanaGit/SalesAndTargetsAnalysis/blob/main/Sales_Analysis_Dashboard.pbix
+   
+[4]:https://github.com/KSultanaGit/SalesAndTargetsAnalysis/blob/main/README.md
+  
+
+dataset/: [Directory containing datasets used for analysis.][1]
+Notebook:  [containing Python scripts for data processing, analysis, and visualization.][2]
+Dashboard: [containing  visualizations, and dashboard outputs generated from the analysis.][3]
+ReadMe.md: [This file, providing an overview of the project.][4]
+
+
 Overview:
 
 The project focuses on analyzing sales performance data for two main teams: Duane Frame's team and Ronnie Daly's team. It includes insights such as sales vs. target attainment, team composition, product sales analysis, geographical analysis, and annual performance trends.
