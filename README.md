@@ -31,24 +31,31 @@ Overview:
 
 The project focuses on analyzing sales performance data for two main teams: Duane Frame's team and Ronnie Daly's team. It includes insights such as sales vs. target attainment, team composition, product sales analysis, geographical analysis, and annual performance trends.
 SUMMARY 
-<img src="https://github.com/KSultanaGit/SalesAndTargetsAnalysis/commit/8fa1ecf87b0b3cce45782bcdf0594b0b4bc19ecb/1.png" alt="Screenshot 1" width="400" height="300" align="center">
+
+<img src="https://github.com/KSultanaGit/SalesAndTargetsAnalysis/commit/8fa1ecf87b0b3cce45782bcdf0594b0b4bc19ecb/1.png" alt="Screenshot 1" width="500" height="300" align="center">
 
 SALES INSIGHTS
+
 <img src="https://github.com/KSultanaGit/SalesAndTargetsAnalysis/blob/8fa1ecf87b0b3cce45782bcdf0594b0b4bc19ecb/screenshots/2.png" alt="Screenshot 2" width="400" height="300" align="center">
 
 TARGETS INSIGHTS
+
 <img src="https://github.com/KSultanaGit/SalesAndTargetsAnalysis/blob/8fa1ecf87b0b3cce45782bcdf0594b0b4bc19ecb/screenshots/3.png" alt="Screenshot 3" width="400" height="300" align="center">
 
 PRODUCT INSIGHTS
+
 <img src="https://github.com/KSultanaGit/SalesAndTargetsAnalysis/blob/8fa1ecf87b0b3cce45782bcdf0594b0b4bc19ecb/screenshots/4.png" alt="Screenshot 4" width="400" height="300" align="center">
 
 CUSTOMER INSIGHTS
+
 <img src="https://github.com/KSultanaGit/SalesAndTargetsAnalysis/blob/8fa1ecf87b0b3cce45782bcdf0594b0b4bc19ecb/screenshots/5.png" alt="Screenshot 5" width="400" height="300" align="center">
 
 MANAGER INSIGHTS
+
 <img src="https://github.com/KSultanaGit/SalesAndTargetsAnalysis/blob/8fa1ecf87b0b3cce45782bcdf0594b0b4bc19ecb/screenshots/6.png" alt="Screenshot 6" width="400" height="300" align="center">
 
 INFERENCES
+
 <img src="https://github.com/KSultanaGit/SalesAndTargetsAnalysis/blob/8fa1ecf87b0b3cce45782bcdf0594b0b4bc19ecb/screenshots/7.png" alt="Screenshot 7" width="400" height="300" align="center">
 
 
