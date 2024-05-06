@@ -32,8 +32,11 @@ Files Included:
   
 
 dataset/: [Directory containing datasets used for analysis.][1]
+
 Notebook:  [containing Python scripts for data processing, analysis, and visualization.][2]
+
 Dashboard: [containing  visualizations, and dashboard outputs generated from the analysis.][3]
+
 ReadMe.md: [This file, providing an overview of the project.][4]
 
 
