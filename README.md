@@ -1,14 +1,14 @@
-Sales and Targets Analysis Project:
+# Sales and Targets Analysis Project
 
 This repository contains the code and data for the Sales and Targets Analysis project. The project aims to analyze sales performance, target attainment, and related insights for different teams within the organization using Python and SQL. The analysis includes visualizing relations and creating a dashboard for better insights.
 
-Tech Stack:
+# Tech Stack
 
     Python: Used for data processing, analysis, and visualization.
     SQL: Used for querying and manipulating relational databases.
     Power BI: Utilized for creating interactive and insightful dashboards to visualize key metrics and trends.
 
-Data Analysis and Visualization:
+# Data Analysis and Visualization
 
     Data Extraction and Transformation: Extracted and Transformed data into structured formats from CSV or Excel to Pandas for further analysis.
 
@@ -20,7 +20,7 @@ Data Analysis and Visualization:
 
     Dashboard Creation: Created interactive dashboards using Power BI to present key insights and trends in a user-friendly interface.
 
-Files Included:
+# Files Included
 
 [1]:https://github.com/KSultanaGit/SalesAndTargetsAnalysis/tree/main/Datasets
     
@@ -40,38 +40,38 @@ Dashboard: [containing  visualizations, and dashboard outputs generated from the
 ReadMe.md: [This file, providing an overview of the project.][4]
 
 
-Overview:
+# Overview
 
 The project focuses on analyzing sales performance data for two main teams: Duane Frame's team and Ronnie Daly's team. It includes insights such as sales vs. target attainment, team composition, product sales analysis, geographical analysis, and annual performance trends.
 
-SUMMARY 
+## SUMMARY 
 
 <img src="https://github.com/KSultanaGit/SalesAndTargetsAnalysis/blob/main/screenshots/1.png" alt="Screenshot 1" width="500" height="200" align="center">
 
-SALES INSIGHTS
+## SALES INSIGHTS
 
 <img src="https://github.com/KSultanaGit/SalesAndTargetsAnalysis/blob/8fa1ecf87b0b3cce45782bcdf0594b0b4bc19ecb/screenshots/2.png" alt="Screenshot 2" width="500" height="200" align="center">
 
-TARGETS INSIGHTS
+## TARGETS INSIGHTS
 
 <img src="https://github.com/KSultanaGit/SalesAndTargetsAnalysis/blob/8fa1ecf87b0b3cce45782bcdf0594b0b4bc19ecb/screenshots/3.png" alt="Screenshot 3" width="500" height="200" align="center">
 
-PRODUCT INSIGHTS
+## PRODUCT INSIGHTS
 
 <img src="https://github.com/KSultanaGit/SalesAndTargetsAnalysis/blob/8fa1ecf87b0b3cce45782bcdf0594b0b4bc19ecb/screenshots/4.png" alt="Screenshot 4" width="500" height="200" align="center">
 
-CUSTOMER INSIGHTS
+## CUSTOMER INSIGHTS
 
 <img src="https://github.com/KSultanaGit/SalesAndTargetsAnalysis/blob/8fa1ecf87b0b3cce45782bcdf0594b0b4bc19ecb/screenshots/5.png" alt="Screenshot 5" width="500" height="200" align="center">
 
-MANAGER INSIGHTS
+## MANAGER INSIGHTS
 
 <img src="https://github.com/KSultanaGit/SalesAndTargetsAnalysis/blob/8fa1ecf87b0b3cce45782bcdf0594b0b4bc19ecb/screenshots/6.png" alt="Screenshot 6" width="500" height="200" align="center">
 
-INFERENCES
+## INFERENCES
 
 <img src="https://github.com/KSultanaGit/SalesAndTargetsAnalysis/blob/8fa1ecf87b0b3cce45782bcdf0594b0b4bc19ecb/screenshots/7.png" alt="Screenshot 7" width="500" height="200" align="center">
 
-Contributors
+## Contributors
 
     Khadija Sultana
