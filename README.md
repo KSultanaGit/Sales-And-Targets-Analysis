@@ -3,22 +3,22 @@
 This repository contains the code and data for the Sales and Targets Analysis project. The project aims to analyze sales performance, target attainment, and related insights for different teams within the organization using Python and SQL. The analysis includes visualizing relations and creating a dashboard for better insights.
 
 # Tech Stack
-
-    Python: Used for data processing, analysis, and visualization.
-    SQL: Used for querying and manipulating relational databases.
-    Power BI: Utilized for creating interactive and insightful dashboards to visualize key metrics and trends.
+    
+Python: Used for data processing, analysis, and visualization.
+SQL: Used for querying and manipulating relational databases.
+Power BI: Utilized for creating interactive and insightful dashboards to visualize key metrics and trends.
 
 # Data Analysis and Visualization
 
-    Data Extraction and Transformation: Extracted and Transformed data into structured formats from CSV or Excel to Pandas for further analysis.
+Data Extraction and Transformation: Extracted and Transformed data into structured formats from CSV or Excel to Pandas for further analysis.
 
-    Data Loading: Loaded transformed data into a SQL database for efficient querying and manipulation.
+Data Loading: Loaded transformed data into a SQL database for efficient querying and manipulation.
 
-    Data Analysis: Conducted analysis using SQL queries to derive insights on sales performance, target attainment, and related metrics.
+Data Analysis: Conducted analysis using SQL queries to derive insights on sales performance, target attainment, and related metrics.
 
-    Visualization: Visualized the analyzed data using Python libraries like Matplotlib, Seaborn, to create informative charts, graphs, and visualizations.
+Visualization: Visualized the analyzed data using Python libraries like Matplotlib, Seaborn, to create informative charts, graphs, and visualizations.
 
-    Dashboard Creation: Created interactive dashboards using Power BI to present key insights and trends in a user-friendly interface.
+Dashboard Creation: Created interactive dashboards using Power BI to present key insights and trends in a user-friendly interface.
 
 # Files Included
 
